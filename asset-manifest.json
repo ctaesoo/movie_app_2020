@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ctaesoo/movie_app_2020/static/css/main.05d37451.chunk.css",
+    "main.js": "/ctaesoo/movie_app_2020/static/js/main.00f4733c.chunk.js",
+    "main.js.map": "/ctaesoo/movie_app_2020/static/js/main.00f4733c.chunk.js.map",
+    "runtime-main.js": "/ctaesoo/movie_app_2020/static/js/runtime-main.9d1546a1.js",
+    "runtime-main.js.map": "/ctaesoo/movie_app_2020/static/js/runtime-main.9d1546a1.js.map",
+    "static/js/2.3507762e.chunk.js": "/ctaesoo/movie_app_2020/static/js/2.3507762e.chunk.js",
+    "static/js/2.3507762e.chunk.js.map": "/ctaesoo/movie_app_2020/static/js/2.3507762e.chunk.js.map",
+    "index.html": "/ctaesoo/movie_app_2020/index.html",
+    "precache-manifest.8846858fed1b93d2e635b257fadda0ff.js": "/ctaesoo/movie_app_2020/precache-manifest.8846858fed1b93d2e635b257fadda0ff.js",
+    "service-worker.js": "/ctaesoo/movie_app_2020/service-worker.js",
+    "static/css/main.05d37451.chunk.css.map": "/ctaesoo/movie_app_2020/static/css/main.05d37451.chunk.css.map",
+    "static/js/2.3507762e.chunk.js.LICENSE.txt": "/ctaesoo/movie_app_2020/static/js/2.3507762e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d1546a1.js",
+    "static/js/2.3507762e.chunk.js",
+    "static/css/main.05d37451.chunk.css",
+    "static/js/main.00f4733c.chunk.js"
+  ]
+}
